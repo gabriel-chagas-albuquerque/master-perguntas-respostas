@@ -1,0 +1,89 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Nunito:wght@400;600;700;800;900&display=swap");
+@import "tailwindcss";
+
+:root {
+  font-family: "Nunito", sans-serif;
+  color: #233044;
+  background: #f8f3e8;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  --master-red: #df3e35;
+  --master-blue: #2d78b8;
+  --master-yellow: #f2c84b;
+  --master-green: #3c9b69;
+}
+
+#root {
+  min-height: 100svh;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+}
+
+button,
+a {
+  -webkit-tap-highlight-color: transparent;
+}
+
+::selection {
+  color: #fff;
+  background: var(--master-red);
+}
+
+.font-display {
+  font-family: "Bree Serif", Georgia, serif;
+}
+
+.board-pattern {
+  background-color: #f8f3e8;
+  background-image:
+    linear-gradient(45deg, rgba(35, 48, 68, 0.035) 25%, transparent 25%),
+    linear-gradient(-45deg, rgba(35, 48, 68, 0.035) 25%, transparent 25%),
+    linear-gradient(45deg, transparent 75%, rgba(35, 48, 68, 0.035) 75%),
+    linear-gradient(-45deg, transparent 75%, rgba(35, 48, 68, 0.035) 75%);
+  background-position:
+    0 0,
+    0 10px,
+    10px -10px,
+    -10px 0;
+  background-size: 20px 20px;
+}
+
+.shadow-board {
+  box-shadow:
+    0 14px 0 rgba(35, 48, 68, 0.08),
+    0 28px 45px rgba(35, 48, 68, 0.12);
+}
+
+.modal-enter {
+  animation: modal-enter 240ms ease-out both;
+}
+
+@keyframes modal-enter {
+  from {
+    opacity: 0;
+    transform: translateY(12px) scale(0.98);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+.screen-enter {
+  animation: screen-enter 500ms ease-out both;
+}
+
+@keyframes screen-enter {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

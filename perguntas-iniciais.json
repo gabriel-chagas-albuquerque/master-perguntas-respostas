@@ -1,0 +1,182 @@
+[
+{
+"id": 1,
+"tema": "Artes",
+"pergunta": "Quem pintou a obra Mona Lisa?",
+"resposta": "Leonardo da Vinci"
+},
+{
+"id": 2,
+"tema": "Artes",
+"pergunta": "Qual movimento artístico teve Pablo Picasso como um de seus principais representantes?",
+"resposta": "Cubismo"
+},
+{
+"id": 3,
+"tema": "Artes",
+"pergunta": "Quem compôs a famosa Nona Sinfonia?",
+"resposta": "Ludwig van Beethoven"
+},
+{
+"id": 4,
+"tema": "Artes",
+"pergunta": "Qual escultor italiano criou a famosa estátua de Davi?",
+"resposta": "Michelangelo"
+},
+{
+"id": 5,
+"tema": "Artes",
+"pergunta": "Em qual cidade espanhola está localizado o Museu Guggenheim projetado por Frank Gehry?",
+"resposta": "Bilbao"
+},
+{
+"id": 6,
+"tema": "Ciência",
+"pergunta": "Qual é o planeta mais próximo do Sol?",
+"resposta": "Mercúrio"
+},
+{
+"id": 7,
+"tema": "Ciência",
+"pergunta": "Qual cientista formulou as leis do movimento e da gravitação universal?",
+"resposta": "Isaac Newton"
+},
+{
+"id": 8,
+"tema": "Ciência",
+"pergunta": "Qual é o maior órgão do corpo humano?",
+"resposta": "A pele"
+},
+{
+"id": 9,
+"tema": "Ciência",
+"pergunta": "Como é chamado o processo pelo qual as plantas produzem seu próprio alimento utilizando luz?",
+"resposta": "Fotossíntese"
+},
+{
+"id": 10,
+"tema": "Ciência",
+"pergunta": "Qual é o elemento químico representado pelo símbolo Au?",
+"resposta": "Ouro"
+},
+{
+"id": 11,
+"tema": "Entretenimento",
+"pergunta": "Qual filme de 1997 conta a história de Jack e Rose a bordo de um famoso navio?",
+"resposta": "Titanic"
+},
+{
+"id": 12,
+"tema": "Entretenimento",
+"pergunta": "Qual é o nome do bruxo protagonista da série de livros e filmes criada por J. K. Rowling?",
+"resposta": "Harry Potter"
+},
+{
+"id": 13,
+"tema": "Entretenimento",
+"pergunta": "Qual banda britânica lançou o álbum Abbey Road?",
+"resposta": "The Beatles"
+},
+{
+"id": 14,
+"tema": "Entretenimento",
+"pergunta": "Qual personagem de videogame é conhecido por usar um macacão vermelho e um boné com a letra M?",
+"resposta": "Mario"
+},
+{
+"id": 15,
+"tema": "Entretenimento",
+"pergunta": "Qual série de televisão acompanha uma família chamada Simpson, que vive na cidade de Springfield?",
+"resposta": "Os Simpsons"
+},
+{
+"id": 16,
+"tema": "Esportes",
+"pergunta": "Quantos jogadores de cada equipe ficam em quadra ao mesmo tempo em uma partida de basquete?",
+"resposta": "5"
+},
+{
+"id": 17,
+"tema": "Esportes",
+"pergunta": "Qual país sediou a Copa do Mundo de Futebol de 2014?",
+"resposta": "Brasil"
+},
+{
+"id": 18,
+"tema": "Esportes",
+"pergunta": "Em qual esporte é disputado o torneio de Wimbledon?",
+"resposta": "Tênis"
+},
+{
+"id": 19,
+"tema": "Esportes",
+"pergunta": "Quantas medalhas de ouro olímpicas Michael Phelps conquistou em sua carreira?",
+"resposta": "23"
+},
+{
+"id": 20,
+"tema": "Esportes",
+"pergunta": "Qual é a distância oficial de uma maratona?",
+"resposta": "42,195 quilômetros"
+},
+{
+"id": 21,
+"tema": "Geografia",
+"pergunta": "Qual é o maior país do mundo em extensão territorial?",
+"resposta": "Rússia"
+},
+{
+"id": 22,
+"tema": "Geografia",
+"pergunta": "Qual é o rio mais extenso da América do Sul?",
+"resposta": "Rio Amazonas"
+},
+{
+"id": 23,
+"tema": "Geografia",
+"pergunta": "Qual é a capital da Austrália?",
+"resposta": "Canberra"
+},
+{
+"id": 24,
+"tema": "Geografia",
+"pergunta": "Em qual continente está localizado o deserto do Saara?",
+"resposta": "África"
+},
+{
+"id": 25,
+"tema": "Geografia",
+"pergunta": "Qual é a montanha mais alta do mundo acima do nível do mar?",
+"resposta": "Monte Everest"
+},
+{
+"id": 26,
+"tema": "História",
+"pergunta": "Em que ano ocorreu a chegada de Pedro Álvares Cabral ao território que hoje corresponde ao Brasil?",
+"resposta": "1500"
+},
+{
+"id": 27,
+"tema": "História",
+"pergunta": "Qual civilização construiu a cidade de Machu Picchu?",
+"resposta": "Inca"
+},
+{
+"id": 28,
+"tema": "História",
+"pergunta": "Quem foi o primeiro imperador de Roma?",
+"resposta": "Augusto"
+},
+{
+"id": 29,
+"tema": "História",
+"pergunta": "Qual acontecimento marcou o início da Revolução Francesa em 1789 com a tomada de uma importante fortaleza-prisão?",
+"resposta": "Queda da Bastilha"
+},
+{
+"id": 30,
+"tema": "História",
+"pergunta": "Qual tratado encerrou oficialmente a Primeira Guerra Mundial entre a Alemanha e as potências aliadas?",
+"resposta": "Tratado de Versalhes"
+}
+]
